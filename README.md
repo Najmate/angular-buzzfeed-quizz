@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 # ProjetoBuzzfeed
+Este projeto no GitHub é um clone do site BuzzFeed, onde utilizei diretivas, algoritmos, HTML, CSS e banco de dados para criar uma versão simplificada do site original. Com componentes reutilizáveis e estrutura organizada, implementei funcionalidades interativas usando algoritmos para processar respostas dos usuários. O front-end foi desenvolvido com HTML e CSS, proporcionando uma experiência visual atraente. O projeto também utiliza um banco de dados em formato JSON para armazenar dados e permitir atualizações fáceis.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
